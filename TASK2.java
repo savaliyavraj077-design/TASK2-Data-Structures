@@ -29,6 +29,7 @@ public class TASK2 {
          System.out.print(Number[i] + " ");
       }
 
+      // Array operations version: use sorted positions to get second values.
       // Now Find The Second Largest Number In The Array
       int secondSmaller = Number[1];
       int SecondLargest = Number[3];
