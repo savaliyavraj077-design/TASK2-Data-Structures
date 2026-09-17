@@ -11,6 +11,7 @@ public class TASK2 {
          Number[i]=sc.nextInt();
       }
       
+      // Sorting version: Bubble Sort compares adjacent values and swaps them.
       // Now Sort The Array Using Bubble Sort
       System.out.println("The Sorted Array Is:-");
       for (int i = 0; i < 4; i++) {
